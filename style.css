@@ -1,0 +1,7 @@
+*{
+  outline: 1px solid rebeccapurple;
+}
+
+.row div {
+  min-height: 100px;
+}
